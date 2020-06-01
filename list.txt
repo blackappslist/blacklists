@@ -9,7 +9,7 @@ com.apusapps.browser
 com.ngame.allstar.eu
 com.lilithgame.sgame.gp.oss
 com.baidu.searchbox
-com.baidu.BaiduMap
+com.baidu.baidumap
 com.baidu.baidutranslate
 com.charger.faster.chargdu
 com.meitu.meiyancamera
@@ -18,7 +18,7 @@ com.tencent.igce
 sg.bigo.live
 com.meitu.boxxcam
 com.intsig.camscanner
-com.intsig.BCRLite
+com.intsig.bcrlite
 com.igg.castleclash
 com.jetstartgames.chess
 com.tencent.godgame
@@ -34,10 +34,10 @@ com.limsky.ramcleaner
 com.baidu.browser
 com.ss.android.ugc.trill
 com.duclean.cash.cleaning
-com.DU.Cleaner.antivirus.cleanphone
+com.du.cleaner.antivirus.cleanphone
 com.szipcs.duprivacylock
 mobi.charmer.myscreenrecorder
-com.File.Manager.Filemanager
+com.file.manager.filemanager
 com.flashkeyboardtheme
 com.dc.hwsj
 com.diandian.gog
@@ -45,7 +45,7 @@ sg.bigo.hellotalk
 app.buzz.share
 app.buzz.share.lite
 com.hcg.tos.gp
-com.Home.Workout.For.Women
+com.home.workout.for.women
 com.funplus.kingofavalon
 com.kwai.video
 com.gtarcade.lod
@@ -69,7 +69,7 @@ com.nono.android
 com.meitu.oxygen
 com.lbe.parallel.intl
 com.cyberlink.youperfect
-com.yubitu.android.YubiCollage
+com.yubitu.android.yubicollage
 com.pleco.chinesesystem
 com.meitu.beautyplusme
 com.beautyplus.pomelo.filters.photo
@@ -92,9 +92,9 @@ com.zhiliao.musically.livewallpaper
 com.truecaller
 free.vpn.unblock.proxy.turbovpn
 com.ucturbo
-com.CricChat.intl
+com.cricchat.intl
 com.uc.iflow
-com.UCMobile.intl
+com.ucmobile.intl
 com.uc.browser.en
 com.youdao.hindict
 com.asiainno.uplive
@@ -102,13 +102,13 @@ com.netqin.ps
 com.ss.android.ugc.boomlite
 com.ss.android.ugc.boom
 com.ss.android.ugc.boom.livewallpaper
-com.HIsecurity.antivirus.litepro
+com.hisecurity.antivirus.litepro
 com.quvideo.xiaoying
 com.quvideo.vivavideo.lite
 com.uc.vmate
 com.vpnmaster.vpnfree
 com.ushareit.watchit
-com.qidian.Int.reader
+com.qidian.int.reader
 com.tencent.mm
 com.tencent.wework
 com.weico.international
