@@ -117,3 +117,6 @@ com.baidu.baiducamera
 cn.xender
 com.cyberlink.youcammakeup
 com.zw.zombieworld.gp
+com.mipay.in.wallet
+com.mi.launcher
+com.zhiliaoapp.musically.go
