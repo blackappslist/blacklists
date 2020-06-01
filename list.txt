@@ -32,6 +32,7 @@ com.cm.browser.downloader.adblock
 com.dating.android
 com.limsky.ramcleaner
 com.baidu.browser
+com.ss.android.ugc.trill
 com.duclean.cash.cleaning
 com.DU.Cleaner.antivirus.cleanphone
 com.szipcs.duprivacylock
