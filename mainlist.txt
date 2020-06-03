@@ -120,3 +120,23 @@ com.baidu.baiducamera,Wonder Camera
 cn.xender,Xender
 com.cyberlink.youcammakeup,YouCam Makeup
 com.zw.zombieworld.gp,Zombie World SLG 3D
+com.lovegame.hk.hokbok, Honor: Be a King
+skydragon.honorofkings, Honor of Kings-Epic Heroes
+com.heyyogame.gden,Emperor and Beauties
+com.iyoulong.wokfb,Ultimate Glory - War of Kings
+com.tibtt.sgame.iyoulong,Battle of Gods
+com.youlongsz.legendofkingsddup,Legend of Kings
+com.iyoulong.wokfb.survival,War of Survival
+com.tencent.ludosuperstar,Ludo World-Ludo Superstar
+com.ngame.allstar.eu,Arena of Valor: 5v5 Arena Game
+com.tencent.godgame,Chess Rush
+com.lilithgame.sgame.gp.oss,Art of Conquest: Dark Horizon
+com.lilithgames.hgame.gp.id, AFK Arena
+com.lilithgame.roc.gp, Rise of Kingdoms: Lost Crusade
+com.lilithgame.wgame.gp, Warpath
+us.kick9.k3000000013.c3101000001, Soul Hunters
+com.lilithgame.tgames.gp, Dank Tanks
+com.lilithgame.isoland2.gpen, Isoland2: Ashes of Time
+com.Lilith.Abi,Abi: A Robot's Tale
+com.lilithgame.isoland2.gp.mf,Isoland 2: Ashes of Time Lite
+com.lilithgames.mrpumpkin2.gp,Mr Pumpkin 2: Walls of Kowloon
