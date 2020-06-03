@@ -1,4 +1,15 @@
+com.lilithgames.hgame.gp.id, AFK Arena
+com.eterno.go, Dailyhunt Go
+com.eterno, Dailyhunt Newshunt)
+com.lilithgame.tgames.gp, Dank Tanks
+skydragon.honorofkings, Honor of Kings-Epic Heroes
+com.lovegame.hk.hokbok, Honor: Be a King
+com.lilithgame.isoland2.gpen, Isoland2: Ashes of Time
+com.lilithgame.roc.gp, Rise of Kingdoms: Lost Crusade
+us.kick9.k3000000013.c3101000001, Soul Hunters
+com.lilithgame.wgame.gp, Warpath
 com.security.antivirus.sefeanti,360 Mobile Guard
+com.Lilith.Abi,Abi: A Robot's Tale
 com.meitu.airbrush.vivo,AirBrush 2Go
 com.magicv.airbrush,AirBrush: Easy Photo Editor
 com.meitu.airvid,AirVid Video Filters & Frames
@@ -12,6 +23,7 @@ com.baidu.searchbox,Baidu
 com.baidu.BaiduMap,Baidu Map
 com.baidu.baidutranslate,Baidu Translate
 com.charger.faster.chargdu,Battery Saver DU - Life Saver & DU Battery Charger
+com.tibtt.sgame.iyoulong,Battle of Gods
 com.meitu.meiyancamera,BeautyCam
 com.commsource.beautyplus,BeautyPlus
 com.tencent.igce,BETA PUBG MOBILE (Early Access)
@@ -36,6 +48,7 @@ com.duclean.cash.cleaning,DU Cache Cleaner- Speed Booster
 com.DU.Cleaner.antivirus.cleanphone,DU Cleaner
 com.szipcs.duprivacylock,DU Privacy
 mobi.charmer.myscreenrecorder,DU recorder
+com.heyyogame.gden,Emperor and Beauties
 com.File.Manager.Filemanager,ES File Explorer
 com.flashkeyboardtheme,Flash Keyboard
 com.dc.hwsj,Game of Sultans
@@ -45,10 +58,12 @@ app.buzz.share,Helo
 app.buzz.share.lite,Helo Lite
 com.hcg.tos.gp,Heroes War
 com.Home.Workout.For.Women,Home Workout for Men & Women - Bodybuilding
+com.lilithgame.isoland2.gp.mf,Isoland 2: Ashes of Time Lite
 com.funplus.kingofavalon,Kings of Avalon
 com.kwai.video,Kwai
 com.gtarcade.lod,Lagecy of discord
 com.longtech.lastwars.gp,Last empire
+com.youlongsz.legendofkingsddup,Legend of Kings
 video.like,LIKEe
 video.like.lite,LIKEe lite
 com.live.royal,LiveMe
@@ -65,6 +80,7 @@ com.mi.global.shop,Mi Store
 com.miui.videoplayer,Mi Video call-Xiaomi
 com.mipay.in.wallet,Mi Wallet
 com.mobile.legends,Mobile Legends
+com.lilithgames.mrpumpkin2.gp,Mr Pumpkin 2: Walls of Kowloon
 com.newsdog,NewsDog
 com.nono.android,NonoLive
 com.meitu.oxygen,O2Cam
@@ -100,6 +116,7 @@ com.uc.iflow,UC News
 com.UCMobile.intl,UCBrowser
 com.uc.browser.en,UCBrowser Mini
 com.youdao.hindict,Udictionary
+com.iyoulong.wokfb,Ultimate Glory - War of Kings
 com.asiainno.uplive,Uplive
 com.netqin.ps,Vault-Hide
 com.ss.android.ugc.boomlite,Vigo Lite
@@ -110,6 +127,7 @@ com.quvideo.xiaoying,viva Video
 com.quvideo.vivavideo.lite,VivaVideo- QU Video Inc
 com.uc.vmate,VMate
 com.vpnmaster.vpnfree,VPN ad Free
+com.iyoulong.wokfb.survival,War of Survival
 com.ushareit.watchit,WATCHit
 com.qidian.Int.reader,Web Novel
 com.tencent.mm,Wechat
@@ -120,23 +138,3 @@ com.baidu.baiducamera,Wonder Camera
 cn.xender,Xender
 com.cyberlink.youcammakeup,YouCam Makeup
 com.zw.zombieworld.gp,Zombie World SLG 3D
-com.lovegame.hk.hokbok, Honor: Be a King
-skydragon.honorofkings, Honor of Kings-Epic Heroes
-com.heyyogame.gden,Emperor and Beauties
-com.iyoulong.wokfb,Ultimate Glory - War of Kings
-com.tibtt.sgame.iyoulong,Battle of Gods
-com.youlongsz.legendofkingsddup,Legend of Kings
-com.iyoulong.wokfb.survival,War of Survival
-com.tencent.ludosuperstar,Ludo World-Ludo Superstar
-com.ngame.allstar.eu,Arena of Valor: 5v5 Arena Game
-com.tencent.godgame,Chess Rush
-com.lilithgame.sgame.gp.oss,Art of Conquest: Dark Horizon
-com.lilithgames.hgame.gp.id, AFK Arena
-com.lilithgame.roc.gp, Rise of Kingdoms: Lost Crusade
-com.lilithgame.wgame.gp, Warpath
-us.kick9.k3000000013.c3101000001, Soul Hunters
-com.lilithgame.tgames.gp, Dank Tanks
-com.lilithgame.isoland2.gpen, Isoland2: Ashes of Time
-com.Lilith.Abi,Abi: A Robot's Tale
-com.lilithgame.isoland2.gp.mf,Isoland 2: Ashes of Time Lite
-com.lilithgames.mrpumpkin2.gp,Mr Pumpkin 2: Walls of Kowloon
