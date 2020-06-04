@@ -1,6 +1,9 @@
 {
   {'name':'Popular Social Media',
    'url' :'https://pastebin.com/raw/Vgvf54Ut'
-   'Description':'All Popular Social Apps'}
+   'Description':'All Popular Social Media Apps'},
+  {'name':'Dating Apps'
+    'url' :'https://pastebin.com/raw/ekUT7pLb'
+    'Description':'A Big Collection of Dating Apps'}
 }
     
