@@ -1,12 +1,3 @@
-[
-  {'name':'Popular Social Media',
-   'url' :'https://pastebin.com/raw/Vgvf54Ut',
-   'Description':'All Popular Social Media Apps'},
-  {'name':'Dating Apps',
-    'url' :'https://pastebin.com/raw/ekUT7pLb'
-    'Description':'A Big Collection of Dating Apps'},
-{'name':'Games',
-    'url' :'https://pastebin.com/raw/Pg7AxBj1',
-    'Description':'All Popular Games'}
-]
-    
+[{"url": "https://pastebin.com/raw/Vgvf54Ut", "name": "Popular Social Media", "Description": "All Popular Social Media Apps"},
+ {"url": "https://pastebin.com/raw/ekUT7pLb", "name": "Dating Apps", "Description": "A Big Collection of Dating Apps"}, 
+ {"url": "https://pastebin.com/raw/Pg7AxBj1", "name": "Games", "Description": "All Popular Games"}]
