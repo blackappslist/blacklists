@@ -1,7 +1,18 @@
 com.netease.g104na.gb, MARVEL SuperWar
-com.mcu.iVMS, hikvision IVMS-4500
-com.mcu.iVMSHD, hikvision IVMS-4500HD
-com.hikvision.HikCentralMobile, HikVision Mobile
+com.hikvi.ivms5200e,iVMS-5200E
+com.hikvision.focsign.mobile,Focsign Mobile
+com.hikvision.HikCentralCloud,HikCentral Cloud
+com.hikvision.HikCentralHD,HikCentral HD
+com.hikvision.HikCentralMobile,HikCentral Mobile
+com.hikvision.isms.dolphin,HikCentral Enterprise
+com.hikvision.isms.dolphin.pad,HikCentral Enterprise HD
+com.hikvision.security.ensupport,Hikvision Views.
+com.hw.ms,iVMS-5260M
+com.ivms.hw,iVMS-5260
+com.ivms.hw.HD,iVMS-5260 HD
+com.mcu.hilook,HiLookVision
+com.mcu.iVMS,iVMS-4500
+com.mcu.iVMSHD,iVMS-4500 HD
 com.ezviz,EzViz
 com.uniview.app.smb.phone.en.ezview,EzView
 com.homeLifeCam, EzViz Home LifeCam
