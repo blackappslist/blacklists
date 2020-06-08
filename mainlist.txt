@@ -1,159 +1,159 @@
-com.netease.g104na.gb,MARVEL SuperWar
-com.hikvi.ivms5200e,iVMS-5200E
-com.hikvision.focsign.mobile,Focsign Mobile
-com.hikvision.HikCentralCloud,HikCentral Cloud
-com.hikvision.HikCentralHD,HikCentral HD
-com.hikvision.HikCentralMobile,HikCentral Mobile
-com.hikvision.isms.dolphin,HikCentral Enterprise
-com.hikvision.isms.dolphin.pad,HikCentral Enterprise HD
-com.hikvision.security.ensupport,Hikvision Views.
-com.hw.ms,iVMS-5260M
-com.ivms.hw,iVMS-5260
-com.ivms.hw.HD,iVMS-5260 HD
-com.mcu.hilook,HiLookVision
-com.mcu.iVMS,iVMS-4500
-com.mcu.iVMSHD,iVMS-4500 HD
-com.ezviz,EzViz
-com.uniview.app.smb.phone.en.ezview,EzView
-com.homeLifeCam,EzViz Home LifeCam
-com.mitronapp,Mitron App
-com.lilithgames.hgame.gp.id,AFK Arena
-com.eterno.go,Dailyhunt Go
-com.eterno,Dailyhunt Newshunt)
-com.lilithgame.tgames.gp,Dank Tanks
-skydragon.honorofkings,Honor of Kings-Epic Heroes
-com.lovegame.hk.hokbok,Honor: Be a King
-com.lilithgame.isoland2.gpen,Isoland2: Ashes of Time
-com.lilithgame.roc.gp,Rise of Kingdoms: Lost Crusade
-us.kick9.k3000000013.c3101000001,Soul Hunters
-com.lilithgame.wgame.gp,Warpath
-com.security.antivirus.sefeanti,360 Mobile Guard
-com.Lilith.Abi,Abi: A Robot's Tale
-com.meitu.airbrush.vivo,AirBrush 2Go
-com.magicv.airbrush,AirBrush: Easy Photo Editor
-com.meitu.airvid,AirVid Video Filters & Frames
-com.alibaba.intl.android.apps.poseidon,Alibaba.com
-com.snowwhiteapps.downloader,All video downloader
-com.domobile.applockwatcher,AppLock
-com.apusapps.browser,APUS Browser
-com.ngame.allstar.eu,Arena of Valor
-com.lilithgame.sgame.gp.oss,Art of conquest
-com.baidu.searchbox,Baidu
-com.baidu.BaiduMap,Baidu Map
-com.baidu.baidutranslate,Baidu Translate
-com.charger.faster.chargdu,Battery Saver DU - Life Saver & DU Battery Charger
-com.tibtt.sgame.iyoulong,Battle of Gods
-com.meitu.meiyancamera,BeautyCam
-com.commsource.beautyplus,BeautyPlus
-com.tencent.igce,BETA PUBG MOBILE (Early Access)
-sg.bigo.live,Bigo Live
-com.meitu.boxxcam,BOXxCAM
-com.intsig.camscanner,Cam Scanner
-com.intsig.BCRLite,CamCard Free
-com.igg.castleclash,Castle Cash
-com.jetstartgames.chess,Cheez
-com.tencent.godgame,Chess Rush
-com.xinlukou.metroman,China Metro
-com.hcg.cok.gp,Clash of Kings
-com.hcg.ctw.gp,Clash of Kings:The West
-com.elex.coq.gp,Clash of Queens
-phone.cleaner.speed.booster.cache.clean.android.master,Clean Master – Cheetah Mobile
-club.fromfactory,ClubFactory
-com.cm.browser.downloader.adblock,CM Browser
-com.dating.android,Dating.com
-com.limsky.ramcleaner,DU Battery Saver
-com.baidu.browser,DU Browser
-com.duclean.cash.cleaning,DU Cache Cleaner- Speed Booster
-com.DU.Cleaner.antivirus.cleanphone,DU Cleaner
-com.szipcs.duprivacylock,DU Privacy
-mobi.charmer.myscreenrecorder,DU recorder
-com.heyyogame.gden,Emperor and Beauties
-com.File.Manager.Filemanager,ES File Explorer
-com.flashkeyboardtheme,Flash Keyboard
-com.dc.hwsj,Game of Sultans
-com.diandian.gog,Guns of glory
-sg.bigo.hellotalk,Hello Yo
-app.buzz.share,Helo
-app.buzz.share.lite,Helo Lite
-com.hcg.tos.gp,Heroes War
-com.Home.Workout.For.Women,Home Workout for Men & Women - Bodybuilding
-com.lilithgame.isoland2.gp.mf,Isoland 2: Ashes of Time Lite
-com.funplus.kingofavalon,Kings of Avalon
-com.kwai.video,Kwai
-com.gtarcade.lod,Lagecy of discord
-com.longtech.lastwars.gp,Last empire
-com.youlongsz.legendofkingsddup,Legend of Kings
-video.like,LIKEe
-video.like.lite,LIKEe lite
-com.live.royal,LiveMe
-com.videochat.livu,Livu
-com.tencent.ludosuperstar,Ludo World
-com.yottagames.mafiawar,Mafia City
-com.netease.mail,Mail Master
-com.meitu.makeup,MakeupPlus
-com.meitu.meipaimv,Meipai
-com.mt.mtxx.mtxx,Meitu 
-com.mi.global.bbs,Mi Community
-com.mi.launcher,Mi Launcher
-com.mi.global.shop,Mi Store
-com.miui.videoplayer,Mi Video call-Xiaomi
-com.mipay.in.wallet,Mi Wallet
-com.mobile.legends,Mobile Legends
-com.lilithgames.mrpumpkin2.gp,Mr Pumpkin 2: Walls of Kowloon
-com.newsdog,NewsDog
-com.nono.android,NonoLive
-com.meitu.oxygen,O2Cam
-com.lbe.parallel.intl,Parallel Space
-com.cyberlink.youperfect,Perfect Corp
-com.yubitu.android.YubiCollage,Photo Wonder
-com.pleco.chinesesystem,Pleco
-com.meitu.beautyplusme,PlusMe Camera
-com.beautyplus.pomelo.filters.photo,Pomelo 
-com.tencent.ig,PUBG
-com.tencent.iglite,PUBG MOBILE LITE
-com.tencent.mobileqq,QQ
-com.tencent.androidqqmail,QQ Mail
-com.tencent.qqmusic,QQ Music
-org.videoplayer.equalizer.player,QQ Video Player
-com.romwe,Romwe
-com.meitu.wheecam,SelfieCity
-com.lenovo.anyshare.gps,SHAREit
-shareit.lite,SHAREit Lite
-com.zzkko,Shein
-com.sina.weibo,Sina Weibo
-com.taobao.taobao,Taobao
-com.ss.android.ugc.trill,TikTok
-com.zhiliaoapp.musically,TikTok
-com.zhiliaoapp.musically.go,TikTok
-com.ss.android.ugc.trill.go,TikTok Lite
-com.zhiliao.musically.livewallpaper,TikTok Wall Picture
-com.truecaller,Truecaller
-free.vpn.unblock.proxy.turbovpn,Turbo VPN
-com.ucturbo,UC Browser Turbo
-com.CricChat.intl,UC Cricket
-com.uc.iflow,UC News
-com.UCMobile.intl,UCBrowser
-com.uc.browser.en,UCBrowser Mini
-com.youdao.hindict,Udictionary
-com.iyoulong.wokfb,Ultimate Glory - War of Kings
-com.asiainno.uplive,Uplive
-com.netqin.ps,Vault-Hide
-com.ss.android.ugc.boomlite,Vigo Lite
-com.ss.android.ugc.boom,Vigo Video
-com.ss.android.ugc.boom.livewallpaper,Vigo Video Live Photo
-com.HIsecurity.antivirus.litepro,Virus Cleaner (Hi Security Lab)
-com.quvideo.xiaoying,viva Video
-com.quvideo.vivavideo.lite,VivaVideo- QU Video Inc
-com.uc.vmate,VMate
-com.vpnmaster.vpnfree,VPN ad Free
-com.iyoulong.wokfb.survival,War of Survival
-com.ushareit.watchit,WATCHit
-com.qidian.Int.reader,Web Novel
-com.tencent.mm,Wechat
-com.tencent.wework,WeChat Work
-com.weico.international,Weibo
-com.etekcity.vesyncplatform,WeSync
-com.baidu.baiducamera,Wonder Camera
-cn.xender,Xender
-com.cyberlink.youcammakeup,YouCam Makeup
-com.zw.zombieworld.gp,Zombie World SLG 3D
+com.security.antivirus.sefeanti	360 Mobile Guard
+com.Lilith.Abi	Abi: A Robot's Tale
+com.lilithgames.hgame.gp.id	AFK Arena
+com.meitu.airbrush.vivo	AirBrush 2Go
+com.magicv.airbrush	AirBrush: Easy Photo Editor
+com.meitu.airvid	AirVid Video Filters & Frames
+com.alibaba.intl.android.apps.poseidon	Alibaba.com
+com.snowwhiteapps.downloader	All video downloader
+com.domobile.applockwatcher	AppLock
+com.apusapps.browser	APUS Browser
+com.ngame.allstar.eu	Arena of Valor
+com.lilithgame.sgame.gp.oss	Art of conquest
+com.baidu.searchbox	Baidu
+com.baidu.BaiduMap	Baidu Map
+com.baidu.baidutranslate	Baidu Translate
+com.charger.faster.chargdu	Battery Saver DU - Life Saver & DU Battery Charger
+com.tibtt.sgame.iyoulong	Battle of Gods
+com.meitu.meiyancamera	BeautyCam
+com.commsource.beautyplus	BeautyPlus
+com.tencent.igce	BETA PUBG MOBILE (Early Access)
+sg.bigo.live	Bigo Live
+com.meitu.boxxcam	BOXxCAM
+com.intsig.camscanner	Cam Scanner
+com.intsig.BCRLite	CamCard Free
+com.igg.castleclash	Castle Cash
+com.jetstartgames.chess	Cheez
+com.tencent.godgame	Chess Rush
+com.xinlukou.metroman	China Metro
+com.hcg.cok.gp	Clash of Kings
+com.hcg.ctw.gp	Clash of Kings:The West
+com.elex.coq.gp	Clash of Queens
+phone.cleaner.speed.booster.cache.clean.android.master	Clean Master – Cheetah Mobile
+club.fromfactory	ClubFactory
+com.cm.browser.downloader.adblock	CM Browser
+com.eterno.go	Dailyhunt Go
+com.eterno	Dailyhunt Newshunt)
+com.lilithgame.tgames.gp	Dank Tanks
+com.dating.android	Dating.com
+com.limsky.ramcleaner	DU Battery Saver
+com.baidu.browser	DU Browser
+com.duclean.cash.cleaning	DU Cache Cleaner- Speed Booster
+com.DU.Cleaner.antivirus.cleanphone	DU Cleaner
+com.szipcs.duprivacylock	DU Privacy
+mobi.charmer.myscreenrecorder	DU recorder
+com.heyyogame.gden	Emperor and Beauties
+com.File.Manager.Filemanager	ES File Explorer
+com.uniview.app.smb.phone.en.ezview	EzView
+com.ezviz	EzViz
+com.homeLifeCam	EzViz Home LifeCam
+com.flashkeyboardtheme	Flash Keyboard
+com.hikvision.focsign.mobile	Focsign Mobile
+com.dc.hwsj	Game of Sultans
+com.diandian.gog	Guns of glory
+sg.bigo.hellotalk	Hello Yo
+app.buzz.share	Helo
+app.buzz.share.lite	Helo Lite
+com.hcg.tos.gp	Heroes War
+com.hikvision.HikCentralCloud	HikCentral Cloud
+com.hikvision.isms.dolphin	HikCentral Enterprise
+com.hikvision.isms.dolphin.pad	HikCentral Enterprise HD
+com.hikvision.HikCentralHD	HikCentral HD
+com.hikvision.HikCentralMobile	HikCentral Mobile
+com.hikvision.security.ensupport	Hikvision Views.
+com.mcu.hilook	HiLookVision
+com.Home.Workout.For.Women	Home Workout for Men & Women - Bodybuilding
+skydragon.honorofkings	Honor of Kings-Epic Heroes
+com.lovegame.hk.hokbok	Honor: Be a King
+com.lilithgame.isoland2.gp.mf	Isoland 2: Ashes of Time Lite
+com.lilithgame.isoland2.gpen	Isoland2: Ashes of Time
+com.mcu.iVMS	iVMS-4500
+com.mcu.iVMSHD	iVMS-4500 HD
+com.hikvi.ivms5200e	iVMS-5200E
+com.ivms.hw	iVMS-5260
+com.ivms.hw.HD	iVMS-5260 HD
+com.hw.ms	iVMS-5260M
+com.funplus.kingofavalon	Kings of Avalon
+com.kwai.video	Kwai
+com.gtarcade.lod	Lagecy of discord
+com.longtech.lastwars.gp	Last empire
+com.youlongsz.legendofkingsddup	Legend of Kings
+video.like	LIKEe
+video.like.lite	LIKEe lite
+com.live.royal	LiveMe
+com.videochat.livu	Livu
+com.tencent.ludosuperstar	Ludo World
+com.yottagames.mafiawar	Mafia City
+com.netease.mail	Mail Master
+com.meitu.makeup	MakeupPlus
+com.netease.g104na.gb	MARVEL SuperWar
+com.meitu.meipaimv	Meipai
+com.mt.mtxx.mtxx	Meitu 
+com.mi.global.bbs	Mi Community
+com.mi.launcher	Mi Launcher
+com.mi.global.shop	Mi Store
+com.miui.videoplayer	Mi Video call-Xiaomi
+com.mipay.in.wallet	Mi Wallet
+com.mitronapp	Mitron App
+com.mobile.legends	Mobile Legends
+com.lilithgames.mrpumpkin2.gp	Mr Pumpkin 2: Walls of Kowloon
+com.newsdog	NewsDog
+com.nono.android	NonoLive
+com.meitu.oxygen	O2Cam
+com.lbe.parallel.intl	Parallel Space
+com.cyberlink.youperfect	Perfect Corp
+com.yubitu.android.YubiCollage	Photo Wonder
+com.pleco.chinesesystem	Pleco
+com.meitu.beautyplusme	PlusMe Camera
+com.beautyplus.pomelo.filters.photo	Pomelo 
+com.tencent.ig	PUBG
+com.tencent.iglite	PUBG MOBILE LITE
+com.tencent.mobileqq	QQ
+com.tencent.androidqqmail	QQ Mail
+com.tencent.qqmusic	QQ Music
+org.videoplayer.equalizer.player	QQ Video Player
+com.lilithgame.roc.gp	Rise of Kingdoms: Lost Crusade
+com.romwe	Romwe
+com.meitu.wheecam	SelfieCity
+com.lenovo.anyshare.gps	SHAREit
+shareit.lite	SHAREit Lite
+com.zzkko	Shein
+com.sina.weibo	Sina Weibo
+us.kick9.k3000000013.c3101000001	Soul Hunters
+com.taobao.taobao	Taobao
+com.ss.android.ugc.trill	TikTok
+com.zhiliaoapp.musically	TikTok
+com.zhiliaoapp.musically.go	TikTok
+com.ss.android.ugc.trill.go	TikTok Lite
+com.zhiliao.musically.livewallpaper	TikTok Wall Picture
+com.truecaller	Truecaller
+free.vpn.unblock.proxy.turbovpn	Turbo VPN
+com.ucturbo	UC Browser Turbo
+com.CricChat.intl	UC Cricket
+com.uc.iflow	UC News
+com.UCMobile.intl	UCBrowser
+com.uc.browser.en	UCBrowser Mini
+com.youdao.hindict	Udictionary
+com.iyoulong.wokfb	Ultimate Glory - War of Kings
+com.asiainno.uplive	Uplive
+com.netqin.ps	Vault-Hide
+com.ss.android.ugc.boomlite	Vigo Lite
+com.ss.android.ugc.boom	Vigo Video
+com.ss.android.ugc.boom.livewallpaper	Vigo Video Live Photo
+com.HIsecurity.antivirus.litepro	Virus Cleaner (Hi Security Lab)
+com.quvideo.xiaoying	viva Video
+com.quvideo.vivavideo.lite	VivaVideo- QU Video Inc
+com.uc.vmate	VMate
+com.vpnmaster.vpnfree	VPN ad Free
+com.iyoulong.wokfb.survival	War of Survival
+com.lilithgame.wgame.gp	Warpath
+com.ushareit.watchit	WATCHit
+com.qidian.Int.reader	Web Novel
+com.tencent.mm	Wechat
+com.tencent.wework	WeChat Work
+com.weico.international	Weibo
+com.etekcity.vesyncplatform	WeSync
+com.baidu.baiducamera	Wonder Camera
+cn.xender	Xender
+com.cyberlink.youcammakeup	YouCam Makeup
+com.zw.zombieworld.gp	Zombie World SLG 3D
