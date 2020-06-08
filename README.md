@@ -4,7 +4,7 @@ Blacklist maintains lists of types of androids packages to blacklist (or whiteli
 
 ### Mainlist.
 
-[Mainlist.txt](https://github.com/blackappslist/blacklists/raw/master/mainlist.txt) is one of the sample file which contains apps which could be blacklisted/whitelisted
+[Mainlist.txt](https://github.com/blackappslist/blacklists/raw/master/mainlist.txt) is a sample file which contains apps which could be blacklisted/whitelisted
 
 Other lists of apps will be added in  time
 
