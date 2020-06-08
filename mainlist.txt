@@ -1,4 +1,4 @@
-com.netease.g104na.gb, MARVEL SuperWar
+com.netease.g104na.gb,MARVEL SuperWar
 com.hikvi.ivms5200e,iVMS-5200E
 com.hikvision.focsign.mobile,Focsign Mobile
 com.hikvision.HikCentralCloud,HikCentral Cloud
@@ -15,18 +15,18 @@ com.mcu.iVMS,iVMS-4500
 com.mcu.iVMSHD,iVMS-4500 HD
 com.ezviz,EzViz
 com.uniview.app.smb.phone.en.ezview,EzView
-com.homeLifeCam, EzViz Home LifeCam
-com.mitronapp, Mitron App
-com.lilithgames.hgame.gp.id, AFK Arena
-com.eterno.go, Dailyhunt Go
-com.eterno, Dailyhunt Newshunt)
-com.lilithgame.tgames.gp, Dank Tanks
-skydragon.honorofkings, Honor of Kings-Epic Heroes
-com.lovegame.hk.hokbok, Honor: Be a King
-com.lilithgame.isoland2.gpen, Isoland2: Ashes of Time
-com.lilithgame.roc.gp, Rise of Kingdoms: Lost Crusade
-us.kick9.k3000000013.c3101000001, Soul Hunters
-com.lilithgame.wgame.gp, Warpath
+com.homeLifeCam,EzViz Home LifeCam
+com.mitronapp,Mitron App
+com.lilithgames.hgame.gp.id,AFK Arena
+com.eterno.go,Dailyhunt Go
+com.eterno,Dailyhunt Newshunt)
+com.lilithgame.tgames.gp,Dank Tanks
+skydragon.honorofkings,Honor of Kings-Epic Heroes
+com.lovegame.hk.hokbok,Honor: Be a King
+com.lilithgame.isoland2.gpen,Isoland2: Ashes of Time
+com.lilithgame.roc.gp,Rise of Kingdoms: Lost Crusade
+us.kick9.k3000000013.c3101000001,Soul Hunters
+com.lilithgame.wgame.gp,Warpath
 com.security.antivirus.sefeanti,360 Mobile Guard
 com.Lilith.Abi,Abi: A Robot's Tale
 com.meitu.airbrush.vivo,AirBrush 2Go
