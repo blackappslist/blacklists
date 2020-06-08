@@ -1,5 +1,10 @@
 com.netease.g104na.gb, MARVEL SuperWar
-com.ezviz
+com.mcu.iVMS, hikvision IVMS-4500
+com.mcu.iVMSHD, hikvision IVMS-4500HD
+com.hikvision.HikCentralMobile, HikVision Mobile
+com.ezviz,EzViz
+com.uniview.app.smb.phone.en.ezview,EzView
+com.homeLifeCam, EzViz Home LifeCam
 com.mitronapp, Mitron App
 com.lilithgames.hgame.gp.id, AFK Arena
 com.eterno.go, Dailyhunt Go
