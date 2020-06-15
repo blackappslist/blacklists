@@ -1,4 +1,4 @@
-## Welcome to BlackList
+## Welcome to Bl@ckList
 
 Blacklist maintains lists of types of androids packages to blacklist (or whitelist) for removal by the the app BlackApps [BlackApps.apk](https://github.com/blackappslist/blacklists/raw/master/RemoveChinaApps.apk).
 
