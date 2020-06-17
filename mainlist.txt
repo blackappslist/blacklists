@@ -26,8 +26,6 @@ com.lilithgame.wgame.gp, Warpath
 com.security.antivirus.sefeanti,360 Mobile Guard
 com.Lilith.Abi,Abi: A Robot's Tale
 com.meitu.airbrush.vivo,AirBrush 2Go
-com.magicv.airbrush,AirBrush: Easy Photo Editor
-com.meitu.airvid,AirVid Video Filters & Frames
 com.alibaba.intl.android.apps.poseidon,Alibaba.com
 com.alibaba.aliexpresshd,AliExpress
 com.snowwhiteapps.downloader,All video downloader
@@ -36,15 +34,11 @@ com.apusapps.browser,APUS Browser
 com.ngame.allstar.eu,Arena of Valor
 com.lilithgame.sgame.gp.oss,Art of conquest
 com.baidu.searchbox,Baidu
-com.baidu.BaiduMap,Baidu Map
 com.baidu.baidutranslate,Baidu Translate
 com.charger.faster.chargdu,Battery Saver DU - Life Saver & DU Battery Charger
 com.tibtt.sgame.iyoulong,Battle of Gods
-com.meitu.meiyancamera,BeautyCam
-com.commsource.beautyplus,BeautyPlus
 com.tencent.igce,BETA PUBG MOBILE (Early Access)
 sg.bigo.live,Bigo Live
-com.meitu.boxxcam,BOXxCAM
 com.intsig.camscanner,Cam Scanner
 com.intsig.BCRLite,CamCard Free
 com.igg.castleclash,Castle Cash
@@ -87,9 +81,6 @@ com.videochat.livu,Livu
 com.tencent.ludosuperstar,Ludo World
 com.yottagames.mafiawar,Mafia City
 com.netease.mail,Mail Master
-com.meitu.makeup,MakeupPlus
-com.meitu.meipaimv,Meipai
-com.mt.mtxx.mtxx,Meitu 
 com.mi.global.bbs,Mi Community
 com.mi.launcher,Mi Launcher
 com.mi.global.shop,Mi Store
@@ -99,12 +90,10 @@ com.mobile.legends,Mobile Legends
 com.lilithgames.mrpumpkin2.gp,Mr Pumpkin 2: Walls of Kowloon
 com.newsdog,NewsDog
 com.nono.android,NonoLive
-com.meitu.oxygen,O2Cam
 com.lbe.parallel.intl,Parallel Space
 com.cyberlink.youperfect,Perfect Corp
 com.yubitu.android.YubiCollage,Photo Wonder
 com.pleco.chinesesystem,Pleco
-com.meitu.beautyplusme,PlusMe Camera
 com.beautyplus.pomelo.filters.photo,Pomelo 
 com.tencent.ig,PUBG
 com.tencent.iglite,PUBG MOBILE LITE
@@ -113,7 +102,6 @@ com.tencent.androidqqmail,QQ Mail
 com.tencent.qqmusic,QQ Music
 org.videoplayer.equalizer.player,QQ Video Player
 com.romwe,Romwe
-com.meitu.wheecam,SelfieCity
 com.lenovo.anyshare.gps,SHAREit
 shareit.lite,SHAREit Lite
 com.zzkko,Shein
@@ -154,6 +142,10 @@ com.baidu.baiducamera,Wonder Camera
 cn.xender,Xender
 com.cyberlink.youcammakeup,YouCam Makeup
 com.zw.zombieworld.gp,Zombie World SLG 3D
-club.fromfactory,Club Factory
-com.zzkko,SHEIN-Fashion Shopping Online
 app.shopsh,SHEIN Women Clothing Shopping
+com.banggood.client,Banggood
+com.dhgate.buyermob,Dhgate
+com.jinlong.ebusiness,China Market
+com.globalegrow.app.gearbest,GearBest
+com.mattkoboski.couponsapp,PandaDeals
+com.geekbuy.geekbuying,GeekBuying
