@@ -1,0 +1,7 @@
+com.magicv.airbrush,AirBrush: Easy Photo Editor
+com.commsource.beautyplus,BeautyPlus - Easy Photo Editor & Selfie Camera
+com.meitu.makeup,MakeupPlus - Your Own Virtual Makeup Artist
+com.mt.mtxx.mtxx,Meitu – Beauty Cam, Easy Photo Editor
+com.meitu.meiyancamera, BeautyCam
+com.meitu.oxygen, O2Cam
+#com\.meitu.*
