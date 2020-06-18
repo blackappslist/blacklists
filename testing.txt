@@ -4,4 +4,4 @@ com.meitu.makeup,MakeupPlus - Your Own Virtual Makeup Artist
 com.mt.mtxx.mtxx,Meitu – Beauty Cam, Easy Photo Editor
 com.meitu.meiyancamera, BeautyCam
 com.meitu.oxygen, O2Cam
-#^com\.meitu.*
+#^com\.meitu.*, All Meitu
