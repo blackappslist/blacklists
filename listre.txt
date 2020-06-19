@@ -7,7 +7,7 @@
 #^com\.kwai\..*,Kwai & Others
 #^com\.dolphin\..*, Dolphin Browser
 #^mobi\.mgeek\..*, Dolphin Browser
-#^cn\.wps\..*, WPS Office
+#^cn\.wps\..*, WPS Office Apps
 #^com\.lenovo\..*,Lenovo Apps
 #^video\.like\..*,Like & Like Lite
 #^com\.lilith.*,Lilith Apps
