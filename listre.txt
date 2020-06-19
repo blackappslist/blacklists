@@ -1,0 +1,119 @@
+#^com\.alibaba\..*,Alibaba & Others
+#^com\.baidu\..*,Baidu Apps
+#^com\.intsig\..*,Camscanner & IntSig Apps
+#^com\.dewmobile\..*,DewMobile Apps
+#^app\.buzz\..*,Helo & Others
+#^com\.imo\..*,IMO Apps
+#^com\.kwai\..*,Kwai & Others
+#^com\.lenovo\..*,Lenovo Apps
+#^video\.like\..*,Like & Like Lite
+#^com\.lilith.*,Lilith Apps
+#^com\.lilithgame.*,Lilith Games
+#^com\.meitu.*,Meitu Apps
+#^com\.mi\..*,Mi Community
+#^com\.miui\..*,Mi Store
+#^com\.mipay\..*,Mi Wallet
+#^com\.newnimbuzz\..*,Nimbuzz apps
+#^com\.tencent\..*,Tencent Apps
+#^com\.zhili.*,TikTok Wall Picture
+#^com\.uc\..*,UC Mini & UC Apps
+#^com\.ss\.android\.ugc\..*,Vigo Video
+#^com\.cyberlink\..*,YouCam + Other Cyberlink
+#^us\.zoom\..*,Zoom & OthApps
+com.security.antivirus.sefeanti,360 Mobile Guard
+com.magicv.airbrush,AirBrush: Easy Photo Editor
+com.snowwhiteapps.downloader,All video downloader
+com.domobile.applockwatcher,AppLock
+com.apusapps.browser,APUS Browser
+com.ngame.allstar.eu,Arena of Valor
+com.banggood.client,Banggood
+com.charger.faster.chargdu,Battery Saver DU - Life Saver & DU Battery Charger
+com.tibtt.sgame.iyoulong,Battle of Gods
+com.commsource.beautyplus,BeautyPlus - Easy Photo Editor & Selfie Camera
+sg.bigo.live,Bigo Live
+com.igg.castleclash,Castle Cash
+com.jetstartgames.chess,Cheez
+com.jinlong.ebusiness,China Market
+com.xinlukou.metroman,China Metro
+com.hcg.cok.gp,Clash of Kings
+com.hcg.ctw.gp,Clash of Kings:The West
+com.elex.coq.gp,Clash of Queens
+phone.cleaner.speed.booster.cache.clean.android.master,Clean Master – Cheetah Mobile
+club.fromfactory,ClubFactory
+com.cm.browser.downloader.adblock,CM Browser
+com.qcloud.cos.client,COS Browser
+com.eterno.go,Dailyhunt Go
+com.eterno,Dailyhunt Newshunt)
+com.dating.android,Dating.com
+com.dhgate.buyermob,Dhgate
+com.limsky.ramcleaner,DU Battery Saver
+com.duclean.cash.cleaning,DU Cache Cleaner- Speed Booster
+com.DU.Cleaner.antivirus.cleanphone,DU Cleaner
+com.szipcs.duprivacylock,DU Privacy
+mobi.charmer.myscreenrecorder,DU recorder
+com.heyyogame.gden,Emperor and Beauties
+com.File.Manager.Filemanager,ES File Explorer
+com.flashkeyboardtheme,Flash Keyboard
+com.dc.hwsj,Game of Sultans
+com.globalegrow.app.gearbest,GearBest
+com.geekbuy.geekbuying,GeekBuying
+com.diandian.gog,Guns of glory
+sg.bigo.hellotalk,Hello Yo
+com.hcg.tos.gp,Heroes War
+com.Home.Workout.For.Women,Home Workout for Men & Women - Bodybuilding
+skydragon.honorofkings,Honor of Kings-Epic Heroes
+com.lovegame.hk.hokbok,Honor: Be a King
+com.funplus.kingofavalon,Kings of Avalon
+com.kwai.video,Kwai
+com.gtarcade.lod,Lagecy of discord
+com.longtech.lastwars.gp,Last empire
+com.youlongsz.legendofkingsddup,Legend of Kings
+com.live.royal,LiveMe
+com.videochat.livu,Livu
+com.yottagames.mafiawar,Mafia City
+com.netease.mail,Mail Master
+com.mt.mtxx.mtxx,Meitu – Beauty Cam
+com.miui.videoplayer,Mi Video call-Xiaomi
+com.mobile.legends,Mobile Legends
+com.newsdog,NewsDog
+info.jehad.mig,Nimbuzz
+com.nono.android,NonoLive
+com.mattkoboski.couponsapp,PandaDeals
+com.lbe.parallel.intl,Parallel Space
+com.cyberlink.youperfect,Perfect Corp
+com.yubitu.android.YubiCollage,Photo Wonder
+com.pleco.chinesesystem,Pleco
+com.beautyplus.pomelo.filters.photo,Pomelo 
+com.qq.qcloud,QQ Cloud
+com.qqeng.online,QQ English
+org.videoplayer.equalizer.player,QQ Video Player
+com.romwe,Romwe
+com.lenovo.anyshare.gps,SHAREit
+shareit.lite,SHAREit Lite
+com.zzkko,Shein
+app.shopsh,SHEIN Women Clothing Shopping
+com.sina.weibo,Sina Weibo
+us.kick9.k3000000013.c3101000001,Soul Hunters
+com.taobao.taobao,Taobao
+com.grandsons.translator,Translate Box
+com.truecaller,Truecaller
+free.vpn.unblock.proxy.turbovpn,Turbo VPN, Easy Photo Editor
+com.ucturbo,UC Browser Turbo
+com.CricChat.intl,UC Cricket
+com.UCMobile.intl,UCBrowser
+com.youdao.hindict,Udictionary
+com.iyoulong.wokfb,Ultimate Glory - War of Kings
+com.asiainno.uplive,Uplive
+com.netqin.ps,Vault-Hide
+com.HIsecurity.antivirus.litepro,Virus Cleaner (Hi Security Lab)
+com.quvideo.xiaoying,viva Video
+com.quvideo.vivavideo.lite,VivaVideo- QU Video Inc
+com.vpnmaster.vpnfree,VPN ad Free
+com.iyoulong.wokfb.survival,War of Survival
+com.ushareit.watchit,WATCHit
+com.qidian.Int.reader,Web Novel
+com.app3daily.a3db108,WeChatAlt
+com.weico.international,Weibo
+com.etekcity.vesyncplatform,WeSync
+cn.xender,Xender
+com.zw.zombieworld.gp,Zombie World SLG 3D
