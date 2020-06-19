@@ -7,7 +7,7 @@
 #^com\.kwai\..*,Kwai & Others
 #^com\.dolphin\..*, Dolphin Browser
 #^mobi\.mgeek\..*, Dolphin Browser
-#^cn\.wps\..*
+#^cn\.wps\..*, WPS Office
 #^com\.lenovo\..*,Lenovo Apps
 #^video\.like\..*,Like & Like Lite
 #^com\.lilith.*,Lilith Apps
@@ -24,7 +24,7 @@
 #^com\.ss\.android\.ugc\..*,Vigo Video
 #^com\.cyberlink\..*,YouCam + Other Cyberlink
 #^us\.zoom\..*,Zoom & OthApps
-#^cn\..*, Many Chinese Apps
+#^cn\..*,Many Chinese Apps
 com.security.antivirus.sefeanti,360 Mobile Guard
 com.magicv.airbrush,AirBrush: Easy Photo Editor
 com.snowwhiteapps.downloader,All video downloader
