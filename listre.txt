@@ -10,7 +10,8 @@
 #^com\.lilith.*,Lilith Apps
 #^com\.lilithgame.*,Lilith Games
 #^com\.meitu.*,Meitu Apps
-#^com\.mi\..*,Mi Community
+#^com\.mi\..*,Mi Apps
+#^com\.xiaomi.*, Mi/Xiaomi Apps
 #^com\.miui\..*,Mi Store
 #^com\.mipay\..*,Mi Wallet
 #^com\.newnimbuzz\..*,Nimbuzz apps
