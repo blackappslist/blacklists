@@ -1,6 +1,6 @@
 ## Welcome to Bl@ckList
 
-Blacklist maintains lists of types of androids packages to blacklist (or whitelist) for removal by the the app BlackApps [BlackApps.apk](https://github.com/blackappslist/blacklists/blob/master/blackapps-com.tz.blackapps-10100-v1.1.0.apk?raw=true)
+Blacklist maintains lists of types of androids packages to blacklist (or whitelist) for removal by the the app BlackApps [BlackApps.apk](https://github.com/blackappslist/blacklists/blob/master/BlackApps.apk?raw=true)
 
 ### Mainlist.
 
