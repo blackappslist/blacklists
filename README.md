@@ -10,7 +10,7 @@ You can download latest version of BlackApps here --> [BlackApps.apk](https://gi
 
 
 ### listre.txt
-[listre.txt](https://github.com/blackappslist/blacklists/raw/master/mainlist.txt) is another sample file which contains apps which could be blacklisted/whitelisted (contains regex based matches for apps/app publisher) for version 1.5 of BlackApps App and newer.
+[listre.txt](https://github.com/blackappslist/blacklists/raw/master/mainlist.txt) is another sample file which contains apps which could be blacklisted/whitelisted (contains regex based matches for apps/app publisher) for version 1.5 of BlackApps App and newer. Allows you to remove over 700 undesirable apps.
 
 
 Other lists of apps will be added in  time
