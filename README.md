@@ -3,6 +3,7 @@
 Blacklist maintains lists of  of Androids apps (packages) to blacklist (or whitelist) for removal by the the App BlackApps 
 You can download latest version of BlackApps here --> [BlackApps.apk](https://github.com/blackappslist/blacklists/blob/master/BlackApps.apk?raw=true)
 
+
 ### Mainlist.
 
 [Mainlist.txt](https://github.com/blackappslist/blacklists/raw/master/mainlist.txt) is a sample file which contains apps which could be blacklisted for removal and removed using the Bl@ckApps Android App
