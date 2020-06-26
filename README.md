@@ -6,7 +6,7 @@ You can download latest version of BlackApps here --> [BlackApps.apk](https://gi
 
 ###  mainlist.txt
 
-[Mainlist.txt](https://github.com/blackappslist/blacklists/raw/master/mainlist.txt) is a sample file which contains apps which could be blacklisted for removal and removed using the Bl@ckApps Android App\
+[Mainlist.txt](https://github.com/blackappslist/blacklists/raw/master/mainlist.txt) is a sample file and default list that contains apps which could be blacklisted for removal using the Bl@ckApps Android App.
 
 
 ### listre.txt
