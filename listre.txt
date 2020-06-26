@@ -1,4 +1,5 @@
 #^com\.alibaba\..*,Alibaba & Others
+#^com\.apusapps\..*, APUS Apps
 #^com\.baidu\..*,Baidu Apps
 #^com\.intsig\..*,Camscanner & IntSig Apps
 #^com\.dewmobile\..*,DewMobile Apps
@@ -30,6 +31,7 @@ com.magicv.airbrush,AirBrush: Easy Photo Editor
 com.snowwhiteapps.downloader,All video downloader
 com.domobile.applockwatcher,AppLock
 com.apusapps.browser,APUS Browser
+com.guardian.security.pri, APUS Security
 com.ngame.allstar.eu,Arena of Valor
 com.banggood.client,Banggood
 com.charger.faster.chargdu,Battery Saver DU - Life Saver & DU Battery Charger
