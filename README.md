@@ -14,7 +14,8 @@ You can download latest version of BlackApps here --> [BlackApps.apk](https://gi
 
 
 Other lists of apps will be added in  time\
-If you want any specific malicious of undesirable app to be added to these lists. Please use issues and to indicate such apps. or you can create your own list of apps and point use its URL in Bl@ack List App.
+If you want any specific malicious of undesirable app to be added to these lists. Go here (https://github.com/blackappslist/blacklists/issues/1). \
+You can create your own list of apps and point Bl@ackApp to its url in settings.
 
 
 ### File Format :-
